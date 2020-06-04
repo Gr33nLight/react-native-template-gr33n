@@ -1,1 +1,1 @@
-# Create react native template gr33n
+# React native app template with firebase libraries
