@@ -54,5 +54,22 @@
   "jest": {
     "preset": "react-native"
   },
-  "private": true
+  "private": false,
+  "name": "react-native-template-gr33n",
+  "version": "1.0.0",
+  "description": "React native base app template",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gr33nLight/react-native-template-gr33n.git"
+  },
+  "keywords": [
+    "gr33",
+    "react-native-template-gr33n"
+  ],
+  "author": "Bruno De Paula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gr33nLight/react-native-template-gr33n/issues"
+  },
+  "homepage": "https://github.com/Gr33nLight/react-native-template-gr33n#readme"
 }
