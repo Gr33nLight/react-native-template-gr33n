@@ -1,0 +1,17 @@
+{
+  "name": "BeachApp",
+  "displayName": "BeachApp",
+  "expo": {
+    "name": "BeachApp",
+    "slug": "BeachApp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
